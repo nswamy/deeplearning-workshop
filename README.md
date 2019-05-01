@@ -25,8 +25,5 @@ Welcome to Apache MXNet Bootcamp. We will use Amazon SageMaker to run the Apache
 
 7. Now we can access the material from the notebook instance and run through the exercises by going into the `deeplearning-workshop` directory.
 
-8. Choose mxnet_p36 conda environment as the Kernel when executing a notebook.
-![Qwiklabs Sage Maker Conda Env](./assets/qwiklabs_workshop_sagemaker_condaenv.png)
 
-
-###  <center>Lets get started. </center>
+###  <center>We are all set, Lets get started. </center>
