@@ -2,13 +2,15 @@
 # QWIKLab Instructions
 ----
 
+### This Workshop is complete and not active 
+
+----
 
 Welcome to Apache MXNet Bootcamp. We will use Amazon SageMaker to run the Apache MXNet lab sessions.
 
 1.	Go to [https://events-aws.qwiklabs.com/](https://events-aws.qwiklabs.com/) and create an account.
 
-2.	Send the email-id, with which you registered in qwiklabs, to **wamy@amazon.com**  
- (Your QWIKLab account will be added to the student list in the lab. This will essential to get access to the lab.)
+2. 
 3.	Once you login to QwikLabs, click on the MXNet/Gluon BootCamp Lab
     ![Qwiklabs Gluon Lab](./assets/qwiklabs_workshop_home.png)
 
